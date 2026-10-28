@@ -1,0 +1,30 @@
+[
+  {
+    "studentId": "camilo-ospina",
+    "entries": [
+      {"courseId":"FB0002","status":"aprobado"},
+      {"courseId":"ET0120","status":"aprobado"},
+      {"courseId":"ET0182","status":"aprobado"},
+      {"courseId":"ET0112","status":"aprobado"},
+      {"courseId":"DI0620","status":"aprobado"},
+      {"courseId":"FB0004","status":"aprobado"},
+      {"courseId":"FB0001","status":"aprobado"},
+      {"courseId":"ET0183","status":"aprobado"},
+      {"courseId":"ET0184","status":"aprobado"},
+      {"courseId":"ET0185","status":"aprobado"},
+      {"courseId":"ET0186","status":"aprobado"},
+      {"courseId":"FB0080","status":"aprobado"},
+      {"courseId":"FB0006","status":"aprobado"},
+      {"courseId":"ET0187","status":"aprobado"},
+      {"courseId":"ET0047","status":"aprobado"},
+      {"courseId":"ET0001","status":"aprobado"},
+      {"courseId":"FB0007","status":"aprobado"},
+      {"courseId":"FB0081","status":"aprobado"},
+      {"courseId":"FB0008","status":"aprobado"},
+      {"courseId":"ET0082","status":"aprobado"},
+      {"courseId":"ET0051","status":"aprobado"},
+      {"courseId":"ET0188","status":"aprobado"},
+      {"courseId":"FB0082","status":"homologado"}
+    ]
+  }
+]

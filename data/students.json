@@ -1,0 +1,10 @@
+[
+  {
+    "id": "camilo-ospina",
+    "name": "Camilo Ospina",
+    "email": "camilo.ospina@ejemplo.local",
+    "university": "Universidad Horizonte (datos de ejemplo)",
+    "program": "Ingeniería de Software",
+    "currentSemester": 5
+  }
+]
