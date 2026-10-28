@@ -5,3 +5,5 @@ coverage
 *.tsbuildinfo
 .env*
 playwright-report
+.kiro/skills/
+.kiro/agents/*.bak
