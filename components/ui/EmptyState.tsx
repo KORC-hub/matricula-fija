@@ -1,0 +1,3 @@
+import { Inbox } from 'lucide-react'
+import { cn } from './utils'
+export function EmptyState({ title, message, action, className }: { title: string; message: string; action?: React.ReactNode; className?: string }) { return <div className={cn('rounded-lg border border-dashed border-slate-300 bg-white px-6 py-12 text-center', className)}><div className="mx-auto mb-4 flex h-11 w-11 items-center justify-center rounded-full bg-indigo-50 text-brand-indigo"><Inbox aria-hidden="true" className="h-5 w-5" /></div><h3 className="text-base font-bold text-brand-navy">{title}</h3><p className="mx-auto mt-2 max-w-md text-sm leading-6 text-ink-secondary">{message}</p>{action ? <div className="mt-5">{action}</div> : null}</div> }
